@@ -1,8 +1,8 @@
 # Console JKO App
 
-### A CLI application with Net Core
+### A CLI application with .Net Core
 
-  It's a console app developed with Net Core which describes a marketplace platform that allows users to do some operation.
+  It's a console app developed with .Net Core which describes a marketplace platform that allows users to do some operation.
   The following are three types of object in the marketplace.
   
   1. `User`
